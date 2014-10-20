@@ -25,7 +25,7 @@ Details about the command line options(to be finished...):
             This command will draw white lines on the pink zones which the BLUE team is spamming. Though it will not completely wipe out those pink color, it is enough to annoy them. Due to data compression of the ball, the resulting image will eventually have a greyish color.
         How to use:
             Please use this command only when your computer is idle, and have enough ink(>3000).
-            i) Zoom in to a zone on the left of the ball, and set your pen size between 1-4.
+            i) Zoom in to a zone covered by pink, and set your pen size between 1-4.
             ii) Press any key to start.
 	
     5. Exit
