@@ -671,9 +671,9 @@ pen = paint(m)
 while True:
 	system('cls')
 	print('*'*30)
-	print('      PigScript v1.5')
+	print('      PigScript Special Build -- Silver Bullet')
 	print('*'*30)
-	print(' 1. Draw a local picture\n 2. Draw a website picture\n 3. Draw curves\n 4. Sivler Bullet \n 5. Exit')
+	print(' 1. Draw a local picture\n 2. Draw a website picture\n 3. Draw curves\n 4. Silver Bullet \n 5. Exit')
 	while True:
 		c=getch().decode()
 		if c in '12345':
